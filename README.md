@@ -4,5 +4,5 @@ This is the code for DBANet.
 Cuda 12.2
 # train
 python train.py
-#test
+# test
 python test.py
